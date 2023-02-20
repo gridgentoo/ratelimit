@@ -1,3 +1,6 @@
+Original repository.    
+https://github.com/uber-go/ratelimit.    
+
 # Go rate limiter [![GoDoc][doc-img]][doc] [![Coverage Status][cov-img]][cov] ![test][test-img]
 
 This package provides a Golang implementation of the leaky-bucket rate limit algorithm.
